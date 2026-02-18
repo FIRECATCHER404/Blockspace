@@ -8,7 +8,6 @@ If you run into any bugs, errors, or issues, please let me know.
 Also, if you have any ideas for stuff i should add (other than black holes or water), again, let me know. 
 
 
-<img width="1920" height="1009" alt="screenshot_20260218_181501_573" src="https://github.com/user-attachments/assets/904edff8-e945-4260-bb7b-52dfb682a970" />
 <img width="1920" height="1009" alt="screenshot_20260218_181438_739" src="https://github.com/user-attachments/assets/65037a30-96fc-40a2-8ae0-b7f217037cde" />
 <img width="1920" height="1009" alt="screenshot_20260218_181353_895" src="https://github.com/user-attachments/assets/1179ee04-b0f3-4220-9e40-bc39f7970c7d" />
 <img width="1920" height="1009" alt="screenshot_20260218_181338_289" src="https://github.com/user-attachments/assets/08da455e-fc51-41d3-9e18-7d02f06b92c6" />
